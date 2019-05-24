@@ -1,4 +1,4 @@
-These are the programming assignments from 
+These are the programming assignments from :
 # Coursera's Machine Learning course taught by 
 ## Andrew Ng.
 
